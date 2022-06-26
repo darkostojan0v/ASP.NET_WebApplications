@@ -1,0 +1,12 @@
+﻿@using SEDC.PizzaApp.Models.Domain
+
+@*@model Order
+
+<p>The user @Model.User.FirstName @Model.User.LastName ordered the pizza @Model.Pizza.Name</p>
+<p>The user paid by @Model.PaymentMethod</p>*@
+
+
+
+@using SEDC.PizzaApp.Models.ViewModels
+@model OrderDetailsViewModel
+<p>@Model.UserFullName ordered @Model.PizzaName. @Model.UserFullName paid @Model.Price by @Model.PaymentMethod.</p>

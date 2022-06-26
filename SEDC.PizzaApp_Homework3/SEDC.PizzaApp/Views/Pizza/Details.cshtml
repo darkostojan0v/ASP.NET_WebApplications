@@ -1,0 +1,23 @@
+﻿
+@*@model Pizza*@
+
+@model PizzaDetailsViewModel
+
+@*the content of _PizzaGreeting will be replaced here*@
+<partial name="~/Views/Shared/Partials/_PizzaGreeting.cshtml"/>
+
+<partial name="~/Views/Shared/Partials/_PizzaDetailsPartial.cshtml" for="@Model"/>
+
+@*<h2>Details for @Model.Name</h2>
+<p>Price: @Model.Price</p>
+@{
+    if(Model.IsOnPromotion == false)
+    {
+        <p>The pizza is not on promotion!</p>
+    }
+    else
+    {
+        <p>The pizza is on promotion!</p>
+    }
+}*@
+

@@ -1,0 +1,104 @@
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\appsettings.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.staticwebassets.runtime.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.exe
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.deps.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.RazorAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.RazorAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\bundle\SEDC.PizzaApp.styles.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\projectbundle\SEDC.PizzaApp.bundle.scp.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\refint\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\ref\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.RazorAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.RazorAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\refint\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\appsettings.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.staticwebassets.runtime.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.exe
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.deps.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\bundle\SEDC.PizzaApp.styles.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\projectbundle\SEDC.PizzaApp.bundle.scp.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class03\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\ref\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\appsettings.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.staticwebassets.runtime.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.exe
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.deps.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.RazorAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.RazorAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\bundle\SEDC.PizzaApp.styles.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\projectbundle\SEDC.PizzaApp.bundle.scp.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\refint\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Developing ASP.NET Web Applications\Class04\SEDC.PizzaApp\SEDC.PizzaApp\obj\Debug\net6.0\ref\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\bin\Debug\net6.0\appsettings.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.staticwebassets.runtime.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.exe
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.deps.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\bin\Debug\net6.0\SEDC.PizzaApp.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.RazorAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.RazorAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\bundle\SEDC.PizzaApp.styles.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\scopedcss\projectbundle\SEDC.PizzaApp.bundle.scp.css
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\refint\SEDC.PizzaApp.dll
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.pdb
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\SEDC.PizzaApp.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Desktop\SEDC 2021-2022\Homeworks Developing ASP.NET Web Applications\SEDC.PizzaApp_Homework3\SEDC.PizzaApp\obj\Debug\net6.0\ref\SEDC.PizzaApp.dll

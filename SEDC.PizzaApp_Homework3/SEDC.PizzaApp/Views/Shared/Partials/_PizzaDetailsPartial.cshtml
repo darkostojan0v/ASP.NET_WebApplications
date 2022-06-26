@@ -1,0 +1,13 @@
+﻿@model PizzaDetailsViewModel
+
+<p>Pizza @Model.Name costs @Model.Price.</p>
+@{
+    if(@Model.IsOnPromotion == false)
+    {
+        <p>The pizza is on promotion!</p>
+    }
+    else
+    {
+        <p>The pizza is not on promotion!</p>
+    }
+}

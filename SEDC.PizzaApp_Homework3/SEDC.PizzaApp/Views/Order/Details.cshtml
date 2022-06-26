@@ -1,0 +1,8 @@
+﻿@model OrderDetailsViewModel
+
+<h2>Order details</h2>
+
+@*<p>The user @Model.UserFullName ordered @Model.PizzaName</p>
+<p>The price is @Model.PaymentMethod</p>*@
+
+<partial name="~/Views/Shared/Partials/_OrderDetailsPartial.cshtml" for="@Model"/>

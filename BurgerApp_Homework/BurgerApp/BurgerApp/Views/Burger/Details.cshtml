@@ -1,0 +1,9 @@
+﻿@using BurgerApp.Models.ViewModels
+@model BurgerViewModel
+
+<h2>@ViewData["Title"]</h2>
+
+<partial name="~/Views/Shared/Partials/_BurgerDetailsPartial.cshtml" for="@Model"/>
+
+<a asp-action ="Index">Menu</a>
+<a asp-controller="Home" asp-action ="Index">Home</a>

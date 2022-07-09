@@ -1,0 +1,12 @@
+﻿@using BurgerApp.Models.ViewModels
+@model BurgerViewModel
+
+<h4>@Model.Name cost @Model.Price.</h4>
+@if(@Model.IsVegan == true && @Model.IsVegetarian == true)
+{
+    <h4>The burger is vegan and vegetarian.</h4>
+}
+else
+{
+    <h4>The burger is not for vegan or vegetarian people.</h4>
+}

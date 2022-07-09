@@ -1,0 +1,19 @@
+﻿@using BurgerApp.Models.ViewModels
+@model BurgerViewModel
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="MakeBurger" method="post">
+            <div class="form-group">
+              <label asp-for="Name" class="control-label"></label>
+              <select class="form-control" asp-for="Name" asp-items="@(new SelectList(ViewBag.Burgers,"Name", "Name"))"></select>
+            </div>
+             <div class="form-group">
+                <label asp-for="HasFries" class="control-label"></label>
+                <input asp-for="HasFries" type="checkbox" />
+            </div>
+            <button type="submit" class="btn btn-default">Save</button>
+        </form>
+    </div>
+</div>

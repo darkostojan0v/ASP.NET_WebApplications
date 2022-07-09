@@ -1,0 +1,10 @@
+﻿@using BurgerApp.Models.ViewModels
+@model OrderViewModel
+
+<h1>Order details..</h1>
+
+@Html.Partial("~/Views/Shared/Partials/_OrderDetailsPartial.cshtml", Model)
+
+@Html.ActionLink("Back to Orders page", "Index")
+
+<a asp-controller="Home" asp-action="Details">Back to home page</a>

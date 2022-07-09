@@ -1,0 +1,12 @@
+﻿@using BurgerApp.Models.Domain
+@using BurgerApp.Models.ViewModels
+@model List<OrderViewModel>
+
+    <h4>@ViewData["Title"]</h4>
+    <h4>There are @ViewData["NumberOfOrders"] made so far.</h4>
+
+@for(int i=0; i<@Model.Count; i++)
+{
+    <partial name="~/Views/Shared/Partials/_OrderDetailsPartial.cshtml" for="@Model[i]"/>
+    <a asp-controller="Order" asp-action="Index" asp-route-id="@Model[i].Id">See details</a>
+}
